@@ -1,9 +1,9 @@
 # transit_hub
 
 **Stack**
-Frontend: React
-Backend: Flask
-Database: Firestore (NoSQL) and Firebase (authentication)
+- Frontend: React
+- Backend: Flask
+- Database: Firestore (NoSQL) and Firebase (authentication)
 
 **API:** https://api.mta.info
 
