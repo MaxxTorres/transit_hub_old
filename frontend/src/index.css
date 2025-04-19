@@ -7,5 +7,5 @@
 }
 
 .map-button {
-  @apply h-full rounded-3xl py-2 px-4 shadow-lg border bg-white
+  @apply h-full rounded-3xl py-2 px-4 shadow-lg border bg-white hover:bg-slate-100
 }

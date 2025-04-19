@@ -9,12 +9,12 @@ export default function NavBar() {
   }
 
   return (
-  <div className = "z-[5000] fixed flex items-center bg-mainOrange w-full top-0 drop-shadow-lg">
+  <div className = "z-[5000] fixed flex items-center bg-mainOrange w-full top-0 drop-shadow-lg h-14">
     <div className = "ml-5 h-11 w-32 bg-contain bg-center bg-no-repeat" style = {{backgroundImage: `url(${Logo})` }}></div>
 
     <SearchBar onSearch={handleSearch} />
 
-    <div className = "flex items-center w-full">
+    <div className = "flex items-center w-full h-full">
       <NavLink 
         to = "/"
         className={({ isActive }) =>
