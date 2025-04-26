@@ -1,4 +1,4 @@
-# NEW REPO: [transit_hub](https://github.com/MaxxTorres/nyc_transit_hub)
+# LINK TO NEW REPO: [transit_hub](https://github.com/MaxxTorres/nyc_transit_hub)
 
 **Stack**
 - Frontend: React
